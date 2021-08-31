@@ -1,2 +1,1 @@
 print (welkoms) 
-print (How do you do)
