@@ -1,0 +1,2 @@
+print ("goodby everybody")
+print ("goodby")
